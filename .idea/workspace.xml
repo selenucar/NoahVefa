@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="955a1b7b-edf8-4092-a92a-22ad8da5d709" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ayata/Noah.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ayata/Noah.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1wFNrZOwQvyv2oVVkZ5kb84qAhL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1628050575653</updated>
     </task>
+    <task id="LOCAL-00001" summary="Noah">
+      <created>1628053925180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628053925180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Noah" />
+    <option name="LAST_COMMIT_MESSAGE" value="Noah" />
   </component>
 </project>
